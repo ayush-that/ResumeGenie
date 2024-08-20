@@ -1,0 +1,290 @@
+{
+  "public_identifier": "ayush-that",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ayush-that/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240820%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240820T161315Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=05ef271cd82fce9779428c79f5ae8b0f9fc4e48ca7e69fac617b4f55c23e1173",
+  "background_cover_image_url": null,
+  "first_name": "Ayush",
+  "last_name": "Singh",
+  "full_name": "Ayush Singh",
+  "follower_count": 2805,
+  "occupation": "Subject Matter Expert at Chegg Inc.",
+  "headline": "AWS Cloud Club Captain || SME @Chegg || NCC (Air) || BTech IT'27 || 2x Hackathon Winner",
+  "summary": "Notable Achievements:\n\u2022 1st place in the Udyamitsav'24 Hackathon at IIT Jammu.\n\u2022 1st place in the Summer Hack 1.0 Hackathon at BVCOE, Delhi.\n\u2022 Ranked among top contributors in SWOC with 11,748 participants.\n\u2022 1st place in the Sambhav Case Study Competition at Enactus BVCOE's Avinya.\n\nI am a student pursuing B.Tech IT from BVCOE, New Delhi. My love for computers dates back to 2007 when I got my first computer. I maintain my blog site where I write on both tech & and non-tech topics. Besides coding and writing, I have an affection for running, being fit matters more than anything. I want to run a marathon someday. I am in the NCC (Flying) senior division as well. I love designing and am proficient with various design tools. I use and promote free and open-source software.",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Delhi",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2023
+      },
+      "ends_at": null,
+      "company": "Chegg Inc.",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/chegg-inc-",
+      "company_facebook_profile_url": null,
+      "title": "Subject Matter Expert",
+      "description": "I am a Physics Subject Expert. I assist students by providing them with high-level academic solutions. I ensure that my answers adhere to the guidelines and quality parameters.",
+      "location": "Remote",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/chegg-inc-/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240820%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240820T161316Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b1d4638aa08aef0e34038b4a5ae5f470d832b7fbd21b451bc61e81b7f6e2bfa3"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2023
+      },
+      "company": "BanBanjara.com",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/banbanjara",
+      "company_facebook_profile_url": null,
+      "title": "Web Content Writer",
+      "description": "I wrote 150+ informative articles on tourist destinations. I ensured they were original, plagiarism-free, and easily readable. I maintained high-quality standards by proofreading them.",
+      "location": "Remote",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/banbanjara/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240820%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240820T161316Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c8d0e0b3cc3dd4e51ca47e217018c26b088ede945c7d99bf64453af8b444d2b"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2027
+      },
+      "field_of_study": "Information Technology",
+      "degree_name": "Bachelor of Technology - BTech",
+      "school": "Guru Gobind Singh Indraprastha University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/9584148/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/guru-gobind-singh-indraprastha-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240820%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240820T161316Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb3aea003550532ca890d3d7de86d3e617dbf334a94c59fb48e9fd061f84f9cf",
+      "grade": "8.36",
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "field_of_study": "Science",
+      "degree_name": "Intermediate",
+      "school": "Kendriya Vidyalaya",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/15106896/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/kendriya-vidyalaya/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240820%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240820T161316Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3b0638b106622afca5b60691d4a9dced365ea5bd42044b19c4be20664846d69a",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": ["English", "Hindi"],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "Finveda - your savvy financial companion",
+      "description": "An interactive financial literacy platform with an AI-powered chatbot. Made using Bootstrap, JavaScript, HTML, CSS, Natural Language Processing (NLP).",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "title": "WhatsMyTrash",
+      "description": "An educational tool that teaches you to differentiate between organic and recyclable wastes. Made using TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Flask.",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "ends_at": null,
+      "title": "Cloud Club Captain",
+      "cause": null,
+      "company": "AWS Cloud Club Delhi",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/93264729/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEqwatgfmbsmA/company-logo_400_400/0/1714978234589/aws_cloud_clubs_at_ggsipu_logo?e=1723075200&v=beta&t=zAdGMSw6P7pGKFxz5GWNvREZmRQ-8oCSSXk1d3R1VcA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "title": "Flight Cadet",
+      "cause": null,
+      "company": "NATIONAL CADET CORPS - India",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/7839809/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C510BAQG2D3W97JQRpA/company-logo_400_400/0/1630585217621/national_cadet_corps___india_logo?e=1723075200&v=beta&t=p455b0JRpEZFzF27KjM34lsPeCQ_nxdWV3Ez0UbcQmg"
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Build and Secure Networks in Google Cloud",
+      "license_number": "5630546",
+      "display_source": "www.cloudskillsboost.google",
+      "authority": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/89d883f2-c8d3-4d03-bb50-572cd82f25f4/badges/5630546?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Create and Manage Cloud Resources",
+      "license_number": "5628732",
+      "display_source": "www.cloudskillsboost.google",
+      "authority": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/89d883f2-c8d3-4d03-bb50-572cd82f25f4/badges/5628732?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
+    }
+  ],
+  "connections": 2754,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/mansha-ahuja-26a3782a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEjY4nIBwsMJcQsKnXrjGA1HSO_TeLqxm4E",
+      "name": "Mansha Ahuja",
+      "summary": "Attended BVCOE",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashujha83?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHA5ugBhboGcQHMbrANLuIOFfi2X7EfPAQ",
+      "name": "Ashu J.",
+      "summary": "GHC Scholar || BTech ECE'27 || Machine Learning & Open Source \u2661",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/mohit-goyal09?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAER-sLgBSR0HGNUdJp9phR4D8dsvfRaIwwU",
+      "name": "MOHIT GOYAL",
+      "summary": "CSE UNDERGRAD'27 | GSSOC ' 24 | PYTHON | MERN |  DSA (JAVA)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/manasi-s-pillai-1553012a3?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEkxm5EBEClDlM7I0q66u3ggH0m96BoU9vk",
+      "name": "Manasi S Pillai",
+      "summary": "IT Undergrad at BVCOE, New Delhi",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/gourvi-popli-1b08ba229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlDr5QBMwefA0ZGN8Ql19719FBSMCXD5OU",
+      "name": "Gourvi Popli",
+      "summary": "IT Undergrad | CS Vice-chairperson @IEEE BVCOE | Ex-Intern @NIC | Java Programmer | Web developer",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": [
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/D4D07AQGWSixaKk4TDg/group-logo_image-shrink_400x400/0/1679925002567?e=1715612400&v=beta&t=s9gdyFH1Wcd0KNExSaVBnk9cxY1_rjY-yWAg1l9hBfQ",
+      "name": "TensorFlow User Group Ghaziabad ",
+      "url": "https://www.linkedin.com/groups/9315575"
+    },
+    {
+      "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFK5LmvZWWTGg/group-logo_image-shrink_400x400/0/1630999696851?e=1715612400&v=beta&t=chXWHZyRDkhw6aOGbVt61aYgiZF7EBb7P8ysjLKbgyg",
+      "name": "JavaScript",
+      "url": "https://www.linkedin.com/groups/121615"
+    }
+  ],
+  "skills": [
+    "Web Development",
+    "Machine Learning",
+    "Physics",
+    "Graphic Design",
+    "Technical Writing",
+    "Programming",
+    "Brand Management",
+    "JavaScript",
+    "Next.js",
+    "vercel",
+    "HTML5",
+    "Attention to Detail",
+    "Brainstorm Facilitation",
+    "Content Creation",
+    "Content Development",
+    "Content Marketing",
+    "Content Strategy",
+    "Employee Benefits",
+    "Search Engines",
+    "Writing",
+    "Written Communication",
+    "Proofreading",
+    "Creative Writing",
+    "Web Content Writing",
+    "Search Engine Optimization (SEO)",
+    "Copywriting",
+    "Web Content Creation",
+    "Web Content",
+    "Google Docs",
+    "Cascading Style Sheets (CSS)",
+    "HTML",
+    "C (Programming Language)",
+    "Adobe Lightroom",
+    "Python (Programming Language)",
+    "Microsoft Office",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe Premiere Pro",
+    "Adobe Premiere Rush",
+    "After Effects",
+    "Canva",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "Microsoft Excel",
+    "Generative AI",
+    "Artificial Intelligence (AI)",
+    "Search Engine Technology",
+    "Microsoft Search",
+    "Chatbots",
+    "ChatGPT",
+    "Computer Ethics"
+  ],
+  "inferred_salary": {
+    "min": null,
+    "max": null
+  },
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
